@@ -22,7 +22,7 @@ export class MathApp extends App {
             public: false,
             i18nLabel: 'Customize_Name',
             i18nDescription: 'Customize_Name_Description',
-        });       
+        });
 
         await configuration.settings.provideSetting({
             id: 'math_icon',
