@@ -1,0 +1,10 @@
+{
+    "Bot": "The bot user that will represent Math",
+    "Bot_Description": "Create a bot user and type its username here.",
+    "Customize_Icon": "Customize Icon",
+    "Customize_Icon_Description": "Change the icon that is used for messages from this integration.",
+    "Customize_Name": "Customize Name",
+    "Customize_Name_Description": "Choose the username that this integration will post as.",  
+    "Slash_Command_Description": "Evaluate mathematical equations.",
+    "Slash_Command_Params_Example": "[2+2, simplify(0.25), round(3.593), sqrt(3^2 + 4^2), 2 inch to cm, etc.]"
+}

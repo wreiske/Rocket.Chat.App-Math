@@ -1,0 +1,15 @@
+{
+    "id": "22236eb7-1786-42bc-846c-a086dd072c2e",
+    "version": "0.0.3",
+    "requiredApiVersion": "^1.0.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Reiske.Tech",
+        "homepage": "https://apis.reiske.tech/math",
+        "support": "https://github.com/wreiske/Rocket.Chat.App-Math/issues"
+    },
+    "name": "Math",
+    "nameSlug": "math",
+    "classFile": "MathApp.ts",
+    "description": "Integrates Math.js into Rocket.Chat with a simple /math slash command. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with different data types like numbers, big numbers, complex numbers, fractions, units, and matrices."
+}
